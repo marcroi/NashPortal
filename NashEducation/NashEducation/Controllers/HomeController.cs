@@ -22,6 +22,7 @@ namespace NashEducation.Controllers
 
         public ActionResult Contact()
         {
+        //blabla
             ViewBag.Message = "Your contact page.";
 
             return View();
